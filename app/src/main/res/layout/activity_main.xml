@@ -64,7 +64,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/panel_bluetooth"
+        android:id="@+id/panel_wifi"
         android:textStyle="bold"
         android:padding="10dp"
         android:textColor="#ffffff"

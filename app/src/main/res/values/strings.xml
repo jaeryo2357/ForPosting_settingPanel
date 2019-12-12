@@ -3,6 +3,6 @@
 
     <string name="btn_Network">인터넷 설정</string>
     <string name="btn_Audio">오디오 설정</string>
-    <string name="btn_Bluetooth">블루투스 설정</string>
+    <string name="btn_Bluetooth">Wifi 설정</string>
     <string name="btn_NFC">근거리 통신 설정</string>
 </resources>
